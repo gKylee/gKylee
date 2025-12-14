@@ -4,6 +4,18 @@ Currently Working on;
 - Web Development 💻
 - Web Design 🧩
 
+Language I currently using are;
+- Java (School puposes) 🌆
+- HTML, CSS, JS 🦩
+- PHP 🐘
+**I'm willing to learn more things**
+
+Framework I currently using are;
+- React JS 🌐
+- Next JS 🗺️
+- Laravel 🌹
+
+
 <!--
 **Welcome to my ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
