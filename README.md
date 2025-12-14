@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Hobby 💕
+
+Currently Working on;
+- Web Development 💻
+- Web Design 🧩
 
 <!--
-**gKylee/gKylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
